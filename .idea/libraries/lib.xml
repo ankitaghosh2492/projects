@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/untitled1/target/untitled1/WEB-INF/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/untitled1/target/untitled1/WEB-INF/lib/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
